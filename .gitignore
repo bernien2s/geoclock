@@ -1,0 +1,8 @@
+bin
+.metadata
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
