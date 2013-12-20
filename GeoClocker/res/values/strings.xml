@@ -31,5 +31,11 @@
      
     <!-- Content Description -->
     <string name="desc_list_item_icon">Item Icon</string>
+    <color name="list_background">#FFFFFF</color>
+    <color name="list_divider">#A8A8A8</color>
+    <color name="counter_text_bg">#000000</color>
+    <color name="list_background_pressed">#C8C8C8</color>
+    <color name="list_item_title">#000000</color>
+    <color name="counter_text_color">#000000</color>
 
 </resources>
